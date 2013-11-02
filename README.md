@@ -19,3 +19,18 @@ The adventure begins on a dreaded island surrounded by sea wherein you have to e
         ./a.out
         
 - Now play the game!
+
+
+Following are the **controls**-
+
+- Arrow keys: Move the person forward,backward and sideways.
+- 'f' key: First person view
+- 'b' key: Third person view
+- 't' key: Tile view
+- 'p' key: Tower view
+- 'c' key: Helicopter view(Keyboard controlled)
+- 'v' key: Helicopter view(Mouse controlled)
+- 'h' key: Top view
+- 'w' 's' key: Move camera forward and backward
+- 'a' 'd' key: Rotate camera
+- 'j' key: Jump

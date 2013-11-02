@@ -14,6 +14,7 @@ The adventure begins on a dreaded island surrounded by sea wherein you have to e
 
 - Then run the commands:
 
+        cd Game
         make
         ./a.out
         
